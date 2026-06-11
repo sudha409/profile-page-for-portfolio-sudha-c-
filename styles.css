@@ -4,14 +4,25 @@ h1 {
 
 p {
  font-size: 18px;
- color: blue;
+ color: black;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 table{
-color: rgb(205, 50, 107);
+color: rgb(117, 50, 205);
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-footer{
-    color:pink;
+#footer {
+   color: green;
 }
 body{
-    background-color: #a6a8ac;
+    background-color: #c3c7cf;
+}
+.header   {
+
+    color: rgb(216, 12, 12);
+
+}
+ul {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
